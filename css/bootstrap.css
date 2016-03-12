@@ -69,7 +69,7 @@ h1 {
   margin: 0.67em 0;
 }
 mark {
-  background: #ff0;
+  background: #1E5AE4;
   color: #000;
 }
 small {
@@ -3644,7 +3644,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   min-height: 90px;
   margin-bottom: 23px;
-  border: 1px solid transparent;
 }
 @media (min-width: 1200px) {
   .navbar {
@@ -3959,7 +3958,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: #ffde25;
+  background-color: #1e5ae4;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

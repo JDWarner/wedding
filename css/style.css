@@ -16,24 +16,26 @@ body {
 
 h1 {
 	color: #fff;
-	font-family: 'Engagement', cursive;
+	font-family: "Roboto", sans-serif;
 	font-weight: normal;
 	margin: 0;
 }
 
 h2 {
-	font-family: 'Engagement', cursive;
+	font-family: "Roboto", sans-serif;
 	font-weight: normal;
 	margin: 0;
 }
 
 h3,h4,h5,h6 {
+	font-family: "Roboto", sans-serif;
 	margin: 3em 0;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 }
 
 h6 {
+	font-family: "Roboto", sans-serif;
 	color: #ff823e;
 }
 
@@ -54,6 +56,7 @@ a:hover {
 }
 
 p {
+	font-family: "Roboto", sans-serif;
 	margin: 0 0 1em;
 }
 
@@ -71,7 +74,7 @@ section {
 }
 
 .btn {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Roboto", sans-serif;
 	letter-spacing: 0.3em;
 	text-transform: uppercase;
 }
@@ -152,6 +155,7 @@ section {
 .navbar {
 	border-radius: 0;
 	text-transform: uppercase;
+	font-family: "Roboto", sans-serif;
 }
 
 .navbar.fixed {
@@ -237,7 +241,7 @@ section {
 	width: 100%;
 }
 
-.katyhuff {
+.joshwarner {
  width: 370px;
  height:370px;
  display:block;
@@ -246,11 +250,11 @@ section {
  background:transparent url('../images/strom.png') center top no-repeat;
 }
 
-.katyhuff:hover {
+.joshwarner:hover {
    background-image: url('../images/stromicon.jpg');
 }
 
-.amgallow {
+.mellissacross {
  width: 370px;
  height:370px;
  display:block;
@@ -259,7 +263,7 @@ section {
  background:transparent url('../images/katy.png') center top no-repeat;
 }
 
-.amgallow:hover {
+.mellissacross:hover {
    background-image: url('../images/katyicon.png');
 }
 

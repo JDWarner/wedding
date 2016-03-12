@@ -44,10 +44,11 @@
 	padding: 10px 0;
 	text-align: center;
 	text-transform: uppercase;
+	font-family: "Roboto", sans-serif;
 }
 .countdown-amount {
 	color: #333;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Roboto", sans-serif;
     font-size: 300%;
     font-weight: 900;
 }

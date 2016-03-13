@@ -242,29 +242,35 @@ section {
 }
 
 .joshwarner {
- width: 370px;
- height:370px;
+ width: 400px;
+ height:400px;
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/strom.png') center top no-repeat;
+ background:transparent url('../images/josh0.jpg') center top;
+ background-size: 444px 533px;
+ background-repeat: no-repeat;
 }
 
 .joshwarner:hover {
-   background-image: url('../images/stromicon.jpg');
+   background-image: url('../images/josh1.jpg');
+   background-size: 460px 460px;
 }
 
 .mellissacross {
- width: 370px;
- height:370px;
+ width: 400px;
+ height:400px;
  display:block;
 	display: inline-block;
 	position: relative;
- background:transparent url('../images/katy.png') center top no-repeat;
+ background:transparent url('../images/mellissa0b.jpg') center top;
+ background-size: 400px 433px;
+ background-repeat: no-repeat;
 }
 
 .mellissacross:hover {
-   background-image: url('../images/katyicon.png');
+   background-image: url('../images/mellissa1.jpg');
+   background-size: 460px 460px;
 }
 
 .hover-effect i {
